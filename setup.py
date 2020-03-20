@@ -9,12 +9,10 @@ with open('HISTORY.rst', 'r') as f:
 
 setup(
     name='meeshkan-daemonocle',
-    version='1.0.2',
+    version='1.0.3',
     description='A Python library for creating super fancy Unix daemons',
     long_description=long_description,
-    url='http://github.com/jnrbsn/daemonocle',
-    author='Jonathan Robson',
-    author_email='jnrbsn@gmail.com',
+    url='https://github.com/meeshkan/daemonocle',
     license='MIT',
     classifiers=[
         'Development Status :: 5 - Production/Stable',
