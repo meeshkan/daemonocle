@@ -8,8 +8,8 @@ with open('HISTORY.rst', 'r') as f:
     long_description += '\n' + f.read()
 
 setup(
-    name='daemonocle',
-    version='1.0.1',
+    name='meeshkan-daemonocle',
+    version='1.0.2',
     description='A Python library for creating super fancy Unix daemons',
     long_description=long_description,
     url='http://github.com/jnrbsn/daemonocle',
