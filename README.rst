@@ -1,3 +1,5 @@
+**NOTE**: This is a fork of https://github.com/jnrbsn/daemonocle containing a patch for python 3.8+ compatibility: https://github.com/jnrbsn/daemonocle/pull/24
+
 daemonocle
 ==========
 
