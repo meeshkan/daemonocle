@@ -1,4 +1,4 @@
-**NOTE**: This is a fork of https://github.com/jnrbsn/daemonocle containing a patch for python 3.8+ compatibility: https://github.com/jnrbsn/daemonocle/pull/24
+**NOTE**: This is a fork of https://github.com/jnrbsn/daemonocle containing a patch for python 3.8+ compatibility: https://github.com/jnrbsn/daemonocle/pull/24. Published to PyPi as: https://pypi.org/project/meeshkan-daemonocle/
 
 daemonocle
 ==========
