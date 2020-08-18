@@ -1,4 +1,6 @@
-**NOTE**: This is a fork of https://github.com/jnrbsn/daemonocle containing a patch for python 3.8+ compatibility: https://github.com/jnrbsn/daemonocle/pull/24. Published to PyPi as: https://pypi.org/project/meeshkan-daemonocle/
+**NOTE**: This is a fork of https://github.com/jnrbsn/daemonocle containing a patch for python 3.8+ compatibility: https://github.com/jnrbsn/daemonocle/pull/24.
+
+**UPDATE**: The above mentioned PR has been merged and released in daemonocle 1.0.2 - please revert back to using that instead of this unmaintained fork.
 
 daemonocle
 ==========
